@@ -1,6 +1,7 @@
 # Expense Register (React)
 
-## Usage
+## Usage:
+
 ```
 npm install
 
@@ -10,4 +11,3 @@ npm start
 # Build for prod
 npm run build
 ```
-
